@@ -1,6 +1,6 @@
 # Search Gif #
 
-Bash script which takes command line input as a search query using http://giphy.com using giphy public API to open a gif in your default browser
+Bash script which takes command line input as a search query using http://giphy.com public API to open a gif in your default browser
 
 ## Requirements ##
 
