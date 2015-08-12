@@ -23,4 +23,4 @@ There are two methods which check if Homebrew and jq are installed and installs 
 - `./search_gif.sh` from the command line, or
 - Add an alias to your bash profile to run the script regardless of which directory you are in.
 
-`alias gif="cd /path/to/random-gif/repository ; ./search_gif.sh"`
+`alias gif="cd /path/to/search-gif/repository ; ./search_gif.sh"`
