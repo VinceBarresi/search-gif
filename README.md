@@ -20,7 +20,7 @@ There are two methods which check if Homebrew and jq are installed and installs 
 
 ## Install ##
 
-- Simply run `/.install.sh` to install requirements
+- Simply run `./install.sh` to install requirements
 
 ## Running the script ##
 
