@@ -18,6 +18,8 @@ There are two methods which check if Homebrew and jq are installed and installs 
 `check_install_jq`
 - Installs jq command line JSON parser
 
+## Install ##
+
 - Simply run `./install.sh` to install requirements
 
 ## Running the script ##
