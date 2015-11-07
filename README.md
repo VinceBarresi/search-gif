@@ -8,7 +8,7 @@ Bash script which takes command line input as a search query using http://giphy.
 - Homebrew
 - jq command line JSON parser
 
-## Installs ##
+## Installations ##
 
 There are two methods which check if Homebrew and jq are installed and installs them if they are missing.
 
@@ -18,9 +18,7 @@ There are two methods which check if Homebrew and jq are installed and installs 
 `check_install_jq`
 - Installs jq command line JSON parser
 
-## Install ##
-
-- Simply run `./install.sh` to install requirements
+Simply run `./install.sh` to install requirements
 
 ## Running the script ##
 
